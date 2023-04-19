@@ -1,9 +1,8 @@
 ### Hi there, I'm Pedro Romão 👋
-
-<!--- 🔭 I’m currently working on -->
-- 🌱 I’m currently learning **MultiCloud (Azure, AWS, GCP) and Terraform**
 <!---- 👯 I’m looking to collaborate on -->
 <!----- 🤔 I’m looking for help with ...-->
+- 🔭 I’m currently working at **DXC Technology**
+- 🌱 I’m currently learning **MultiCloud (Azure, AWS, GCP) and Terraform**
 - 💬 Ask me about **my work**
 - 📫 How to reach me: **pedroromao694@gmail.com**
 - ⚡ Fun fact: **The world's oldest "Yo mama" joke is 3,500 years old**
